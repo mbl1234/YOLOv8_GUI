@@ -1,0 +1,2 @@
+# YOLOv8_GUI
+YOLOv8训练网络，与YOLOv8_PYQT5_GUI相关联
